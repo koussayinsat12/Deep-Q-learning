@@ -1,3 +1,4 @@
 env/
 models/
 variables/
+__pycache__/
